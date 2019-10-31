@@ -1,3 +1,3 @@
 This is the A.txt file.
 
-I made some changes. 
+This entire line is changed.
